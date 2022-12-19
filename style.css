@@ -1,0 +1,14 @@
+body{
+    background-color: red;
+}
+#title{
+    width:100%;
+    height:50px;
+}
+canvas{
+    box-shadow:9px 9px 9px 9px yellow ;
+}
+footer{
+    margin-top:50%;
+    width:100%;
+}
